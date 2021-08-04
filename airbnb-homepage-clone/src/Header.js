@@ -16,7 +16,7 @@ function Header() {
                 alt=""
             /> 
              <div className="header__center">
-                 <input type="text"></input>
+                 <input type="text" />
                     <SearchIcon />
              </div>
 
